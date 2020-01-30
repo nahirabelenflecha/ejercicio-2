@@ -1,0 +1,11 @@
+D:\usuarios\alumno\escritorio\Producto\obj\Debug\netcoreapp3.1\Producto.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\Producto\obj\Debug\netcoreapp3.1\Producto.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\Producto\obj\Debug\netcoreapp3.1\Producto.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\Producto\bin\Debug\netcoreapp3.1\Producto.exe
+D:\usuarios\alumno\escritorio\Producto\bin\Debug\netcoreapp3.1\Producto.deps.json
+D:\usuarios\alumno\escritorio\Producto\bin\Debug\netcoreapp3.1\Producto.runtimeconfig.json
+D:\usuarios\alumno\escritorio\Producto\bin\Debug\netcoreapp3.1\Producto.runtimeconfig.dev.json
+D:\usuarios\alumno\escritorio\Producto\bin\Debug\netcoreapp3.1\Producto.dll
+D:\usuarios\alumno\escritorio\Producto\bin\Debug\netcoreapp3.1\Producto.pdb
+D:\usuarios\alumno\escritorio\Producto\obj\Debug\netcoreapp3.1\Producto.dll
+D:\usuarios\alumno\escritorio\Producto\obj\Debug\netcoreapp3.1\Producto.pdb
